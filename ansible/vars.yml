@@ -1,0 +1,10 @@
+---
+root_password: 123456
+admin_user: root
+admin_password: 123456
+db_name: testdb
+password_validation_policy: 0
+
+# 0 - Low
+# 1 - Medium
+# 2 - Strong

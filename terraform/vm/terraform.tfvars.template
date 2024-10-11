@@ -1,0 +1,6 @@
+location = "East US"
+ssh_key_path = "/root/.ssh/id_rsa.pub"
+client_id = "xxxxxxxxx-xxxxxxxxxxxxx-xxxxxxxxxxxxx"
+client_secret= "xxxxxxxxx-xxxxxxxxxxxxx-xxxxxxxxxxxxx"
+subscription_id= "xxxxxxxxx-xxxxxxxxxxxxx-xxxxxxxxxxxxx"
+tenant_id= "xxxxxxxxx-xxxxxxxxxxxxx-xxxxxxxxxxxxx"

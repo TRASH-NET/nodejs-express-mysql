@@ -1,0 +1,5 @@
+location ="East US"
+tenant_id ="xxxx-xxxxx-xxxxxxx"
+subscription_id ="xxxx-xxxxx-xxxxxxx"
+client_secret="xxxx-xxxxx-xxxxxxx"
+client_id="xxxx-xxxxx-xxxxxxx"
