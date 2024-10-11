@@ -65,6 +65,7 @@ Este [pipeline](/.github/workflows/node.js.yml) nos permitirá enviar los cambio
 
 
 # Integrantes
+- Emmanuel Silva Diaz - T00055599
 - Alessandro Ramirez Miranda - T00065367
 - Alex David Gutierrez Puello - T00064365
 - Julian Camacho - T00059816
